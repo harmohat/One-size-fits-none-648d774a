@@ -1,0 +1,21 @@
+h3 {
+	color: purple;
+}
+li{
+  font-weight: normal;
+  colour: purple; /* incorrect spelling of the color property */
+  font-size: 250%;
+}
+ol{
+	color: red ;
+}
+ul{
+	color: red ;
+}
+body{
+  background-color: blue;
+}
+img{
+	height: 350px;
+    width: 700px;
+}
